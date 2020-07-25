@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello everyone, I'm Vrouliotis Vasileios :dragon: :eyeglasses:
+
+<img src="https://media.giphy.com/media/UOvFfXGINpmN2/giphy.gif" width="250" height="250" />
+
+:video_game: I'm currently working on a story driven turn based game (more to come soon) 
+
+:flower_playing_cards:  I'm also making my first TCG called Stralings
+
+:bulb: I always push myself to be creative and optimize my projects which you can find here
 
 <!--
 **vvroul/vvroul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
