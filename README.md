@@ -2,11 +2,16 @@
 
 <img src="https://media.giphy.com/media/UOvFfXGINpmN2/giphy.gif" width="250" height="250" />
 
-:video_game: I'm currently working on a story driven turn based game (more to come soon) 
+- 🔭 I’m currently working on : 
 
-:flower_playing_cards:  I'm also making my first TCG called Stralings
+:video_game:  a story driven turn based game (more to come soon) 
 
-:bulb: I always push myself to be creative and optimize my projects which you can find here
+:space_invader: a Zerg Starcraft Broodwar bot
+
+:flower_playing_cards: a trading card game called Stralings
+
+
+- :bulb: I always push myself to be creative and optimize my projects which you can find here
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vvroul&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
