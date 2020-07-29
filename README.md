@@ -13,8 +13,6 @@
 
 :bulb: I always push myself to be creative and optimize my projects which you can find here on GitHub!
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vvroul&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!--
