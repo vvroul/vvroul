@@ -8,7 +8,7 @@
 
 - :space_invader: a Zerg Starcraft Broodwar bot
 
-- :flower_playing_cards: a trading card game called Stralings
+- :flower_playing_cards: a trading card game called Stralings (and a handy tool for its playtesting)
 
 
 :bulb: I always push myself to be creative and optimize my projects which you can find here on GitHub!
