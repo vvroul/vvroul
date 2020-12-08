@@ -6,8 +6,6 @@
 
 - :video_game:  a story driven turn based game (more to come soon) 
 
-- :space_invader: a Zerg Starcraft Broodwar bot
-
 - :flower_playing_cards: a trading card game called Stralings 
   - You can find and buy the starter decks of this card game here : https://www.thegamecrafter.com/games/stralings-starter-decks
 
