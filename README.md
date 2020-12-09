@@ -1,4 +1,4 @@
-### Hello everyone, I'm Vrouliotis Vasileios :dragon: :eyeglasses:
+### Hello everyone, I'm Vrouliotis Vasileios :dragon: :robot: :eyeglasses: 
 
 <img src="https://media.giphy.com/media/UOvFfXGINpmN2/giphy.gif" width="250" height="250" />
 
