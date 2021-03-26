@@ -9,6 +9,10 @@
 - :flower_playing_cards: a trading card game called Stralings and a game for playtesting it
   - You can find and buy the starter decks of this card game here : https://www.thegamecrafter.com/games/stralings-starter-decks
 
+- :hamster:  a virtual pet called "RevivePet"
+
+- :space_invader: a game engine called "Shroom Engine"
+
 - :frog: a Don't Starve Together and Don't Starve Mod
 
 :bulb: I always push myself to be creative and optimize my projects which you can find here on GitHub!
