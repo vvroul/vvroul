@@ -6,7 +6,7 @@
 
 - :video_game:  a story driven turn based RPG called For Her 
 
-- :flower_playing_cards: a trading card game called Stralings and a game for playtesting it
+- :flower_playing_cards: a trading card game called "Stralings"
   - You can find and buy the starter decks of this card game here : https://www.thegamecrafter.com/games/stralings-starter-decks
 
 - :hamster:  a virtual pet called "RevivePet"
