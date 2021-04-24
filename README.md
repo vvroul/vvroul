@@ -4,10 +4,10 @@
 
 🔭 I’m currently working on : 
 
-- :video_game:  a story driven turn based RPG called For Her 
+- :video_game:  a story driven turn based RPG called "For Her" 
 
 - :flower_playing_cards: a trading card game called "Stralings"
-  - You can find and buy the starter decks of this card game here : https://www.thegamecrafter.com/games/stralings-starter-decks
+  - You can find and buy the Stralings starter decks here : https://www.thegamecrafter.com/games/stralings-starter-decks
 
 - :hamster:  a virtual pet called "RevivePet"
 
