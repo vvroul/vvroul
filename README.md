@@ -19,6 +19,8 @@
 
 :bulb: I always push myself to be creative and optimize my projects which you can find here on GitHub!
 
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 
 <!--
