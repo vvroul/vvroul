@@ -1,4 +1,4 @@
-### Hello everyone, I'm Vrouliotis Vasileios :dragon: :robot: :eyeglasses: <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello everyone, I'm Vrouliotis Vasileios :dragon: :robot:
 
 <img src="https://giffiles.alphacoders.com/175/175375.gif" width="250" height="250" />
 
