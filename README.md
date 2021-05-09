@@ -1,6 +1,6 @@
 ### Hello everyone, I'm Vrouliotis Vasileios :dragon: :robot: :eyeglasses: 
 
-<img src="https://media.giphy.com/media/UOvFfXGINpmN2/giphy.gif" width="250" height="250" />
+<img src="https://giffiles.alphacoders.com/175/175375.gif" width="250" height="250" />
 
 🔭 I’m currently working on : 
 
