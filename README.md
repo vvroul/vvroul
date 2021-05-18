@@ -6,7 +6,7 @@
 
 - :video_game:  a story driven turn based RPG called "For Her" 
 
-- :hamster:  a virtual pet called "RevivePet"
+- :hamster:  a virtual pet game called "RevivePet"
 
 - :space_invader: a game engine called "Shroom Engine"
 
@@ -18,20 +18,3 @@
 <img src="https://64.media.tumblr.com/31b0fcb17589b0bcf5e0aaf55ccdeba0/59918ea3dd3f30c2-1a/s400x600/cc33a7c1dd4e721b65d4c5d9ecf40b9d3da5d65f.gifv" width="250" height="250" />
 
 :bulb: I always push myself to be creative and optimize my projects which you can find here on GitHub!
-
-
-
-<!--
-**vvroul/vvroul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
