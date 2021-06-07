@@ -1,6 +1,6 @@
 ### Hello everyone, I'm Vrouliotis Vasileios :dragon: :robot:
 
-<img src="https://64.media.tumblr.com/a6114dccc1506abc069a5cad3c0a435b/tumblr_os821sN1Z31w564ifo1_500.gifv" width="500" height="300" />
+<img src="![digi_1](https://user-images.githubusercontent.com/8313366/121071133-3f12eb80-c7d8-11eb-9f73-9c5247bf65e3.gif)" width="500" height="300" />
 
 <hr>
 
