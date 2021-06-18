@@ -6,6 +6,8 @@
 
 - :video_game:  a story driven turn based RPG called "For Her" 
 
+- :gem: : an exploration game about collecting and cleansing crystals
+
 - :hamster:  a virtual pet game called "RevivePet"
 
 - :flower_playing_cards: a trading card game called "Stralings"
