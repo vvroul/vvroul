@@ -6,7 +6,7 @@
 
 - :video_game:  a story driven turn based RPG called "For Her" 
 
-- :gem: : an exploration game about collecting and cleansing crystals
+- :gem: : an exploration game about collecting and cleansing crystals called "Land of Crystals"
 
 - :hamster:  a virtual pet game called "RevivePet"
 
