@@ -15,7 +15,7 @@
  
 <hr>
 
-:bulb: I always push myself to be creative and optimize my projects which you can find here on GitHub!
+:sparkles: Have you ever felt like finding magic in this world when playing a video game? I have, and my purpose is to help others find it too.
 
 
 
