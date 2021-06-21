@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on : 
 
-- :video_game:  a story driven turn based RPG called "For Her" 
+- :video_game:  a story driven creature collector game called "For Her" 
 
 - :gem: an exploration game about collecting and cleansing crystals called "Land of Crystals"
 
