@@ -6,12 +6,11 @@
 
 - :gem: an exploration game about collecting and cleansing crystals called "Land of Crystals"
 
-- :video_game:  a story driven creature collector game called "For Her" 
+- :video_game: a story driven creature collector game called "For Her" 
 
 - :hamster: a virtual pet game called "RevivePet"
 
 - :flower_playing_cards: a trading card game called "Stralings"
-  - You can find and buy the Stralings starter decks here : https://www.thegamecrafter.com/games/stralings-starter-decks
  
 <hr>
 
