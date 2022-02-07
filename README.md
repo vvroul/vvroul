@@ -17,6 +17,4 @@
 :sparkles: Have you ever felt like finding magic in this world when playing a video game? I have, and my purpose is to help others find it too.
 
 
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvroul&show_icons=true&theme=gruvbox&count_private=true)
