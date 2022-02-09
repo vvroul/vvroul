@@ -16,14 +16,13 @@
 
 :sparkles: Have you ever felt like finding magic in this world when playing a video game? I have, and my purpose is to help others find it too.
 
+<hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvroul&show_icons=true&theme=gruvbox&count_private=true)
+<h1> GitHub Stats </h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvroul&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=vvroul&show_icons=true&theme=gruvbox&count_private=true" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=vvroul&show_icons=true&theme=gruvbox&count_private=true" />
+</div>
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a> -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=gruvbox)](https://git.io/streak-stats)
