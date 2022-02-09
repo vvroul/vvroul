@@ -22,7 +22,9 @@
 
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=vvroul&show_icons=true&theme=gruvbox&count_private=true" />
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=vvroul&show_icons=true&theme=gruvbox&count_private=true" />
+ <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=gruvbox" />
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=gruvbox)](https://git.io/streak-stats)
+<hr>
+ 
+ [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=vvroul)](https://github.com/gazf/github-readme-twitter)
