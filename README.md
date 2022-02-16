@@ -23,8 +23,6 @@
 
 - :video_game: a story driven creature collector game called "For Her" 
 
-- :hamster: a virtual pet game called "RevivePet"
-
 - :flower_playing_cards: a trading card game called "Stralings"
 
 <br />
@@ -62,8 +60,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@vvroul&compact=True"/>
 </a>
 <br>
-
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vvroul)](https://github.com/anuraghazra/github-readme-stats&v=2) -->
 
 [![wakatime](https://wakatime.com/badge/user/f93a44b2-26c5-4066-92e5-de5250820f20.svg)](https://wakatime.com/@f93a44b2-26c5-4066-92e5-de5250820f20)
 
