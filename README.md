@@ -1,7 +1,6 @@
 <h1> Hello everyone, I'm Vrouliotis Vasileios <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-
 :sparkles: Have you ever felt like finding magic in this world when playing a video game? I have, and my purpose is to help others find it too.
 
 <div align="left">
@@ -43,3 +42,5 @@
 <hr>
  
  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=vvroul)](https://github.com/gazf/github-readme-twitter)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vvroul.vvroul)
