@@ -27,8 +27,8 @@
  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=gruvbox" />
 </div>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vvroul" alt="vvroul" /></a> </p>
+
 <hr>
  
  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=vvroul)](https://github.com/gazf/github-readme-twitter)
-
-<!-- START gadpp -->
