@@ -55,13 +55,17 @@
 
 ![Metrics](https://metrics.lecoq.io/vvroul?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vvroul)](https://github.com/anuraghazra/github-readme-stats&v=2)
-
-[![wakatime](https://wakatime.com/badge/user/f93a44b2-26c5-4066-92e5-de5250820f20.svg)](https://wakatime.com/@f93a44b2-26c5-4066-92e5-de5250820f20)
-
 <div> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vvroul" alt="vvroul" /></a> </div>
 
+<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@vvroul&compact=True"/>
+</a>
+<br>
 
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vvroul)](https://github.com/anuraghazra/github-readme-stats&v=2) -->
+
+[![wakatime](https://wakatime.com/badge/user/f93a44b2-26c5-4066-92e5-de5250820f20.svg)](https://wakatime.com/@f93a44b2-26c5-4066-92e5-de5250820f20)
 
 
 <hr>
