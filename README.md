@@ -42,5 +42,3 @@
 <hr>
  
  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=vvroul)](https://github.com/gazf/github-readme-twitter)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vvroul.vvroul)
