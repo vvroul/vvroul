@@ -1,5 +1,7 @@
 ### Hello everyone, I'm Vrouliotis Vasileios :dragon: :robot:
 
+![snake gif](https://raw.githubusercontent.com/vvroul/vvroul/output/github-contribution-grid-snake.gif)
+
 <hr>
 
 🔭 I’m currently working on : 
