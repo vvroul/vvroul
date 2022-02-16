@@ -57,6 +57,7 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vvroul)](https://github.com/anuraghazra/github-readme-stats&v=2)
 
+[![wakatime](https://wakatime.com/badge/user/f93a44b2-26c5-4066-92e5-de5250820f20.svg)](https://wakatime.com/@f93a44b2-26c5-4066-92e5-de5250820f20)
 
 <div> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vvroul" alt="vvroul" /></a> </div>
 
