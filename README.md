@@ -1,4 +1,5 @@
-### Hello everyone, I'm Vrouliotis Vasileios :dragon: :robot:
+<h1> Hello everyone, I'm Vrouliotis Vasileios <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>
 
 ![snake gif](https://raw.githubusercontent.com/vvroul/vvroul/output/github-contribution-grid-snake.gif)
 
@@ -29,6 +30,8 @@
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=vvroul&show_icons=true&theme=gruvbox&count_private=true" />
  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=gruvbox" />
 </div>
+
+<br />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vvroul" alt="vvroul" /></a> </p>
 
