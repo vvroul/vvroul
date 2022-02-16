@@ -1,6 +1,9 @@
 <h1> Hello everyone, I'm Vrouliotis Vasileios <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
+
+:sparkles: Have you ever felt like finding magic in this world when playing a video game? I have, and my purpose is to help others find it too.
+
 <div align="left">
 <img width="700px" height = "500px" src="https://pbs.twimg.com/media/FJI52StXsAMrcZc?format=jpg&name=large" alt="cover" />
 </div>
@@ -18,10 +21,6 @@
 - :hamster: a virtual pet game called "RevivePet"
 
 - :flower_playing_cards: a trading card game called "Stralings"
- 
-<hr>
-
-:sparkles: Have you ever felt like finding magic in this world when playing a video game? I have, and my purpose is to help others find it too.
 
 <hr>
 
