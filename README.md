@@ -54,13 +54,14 @@ Screenshot from the current game I'm developing : Land of Crystals 💠
 
 <br />
 
-<h2> Programming Jokes <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+<h2> Programming Jokes </h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=vvroul)](https://github.com/gazf/github-readme-twitter)
-
 
 <h2> Contributions Snake </h2>
 
 ![snake gif](https://raw.githubusercontent.com/vvroul/vvroul/output/github-contribution-grid-snake.gif)
+
+<br />
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=vvroul)](https://github.com/gazf/github-readme-twitter)
