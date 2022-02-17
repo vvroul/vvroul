@@ -7,8 +7,6 @@
 <img width="700px" height = "500px" src="https://pbs.twimg.com/media/FJI52StXsAMrcZc?format=jpg&name=large" alt="cover" />
 </div>
 
-<br />
-
 <h2> About Me <img src = "https://steptech.com.au/wp-content/uploads/2021/07/Game-development.gif" width = 32px> </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -57,16 +55,13 @@
 
 [![wakatime](https://wakatime.com/badge/user/f93a44b2-26c5-4066-92e5-de5250820f20.svg)](https://wakatime.com/@f93a44b2-26c5-4066-92e5-de5250820f20)
 
-
-<hr>
- 
- [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=vvroul)](https://github.com/gazf/github-readme-twitter)
-
 <br />
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=vvroul)](https://github.com/gazf/github-readme-twitter)
 
 
 <h2> Contributions Snake </h2>
