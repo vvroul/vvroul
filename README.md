@@ -7,6 +7,8 @@
 <img width="700px" height = "500px" src="https://pbs.twimg.com/media/FJI52StXsAMrcZc?format=jpg&name=large" alt="cover" />
 </div>
 
+Screenshot from the current game I'm developing : Land of Crystals 💠
+
 <h2> About Me <img src = "https://steptech.com.au/wp-content/uploads/2021/07/Game-development.gif" width = 40px> </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
