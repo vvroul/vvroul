@@ -1,7 +1,7 @@
 <h1> Hello everyone, I'm Vrouliotis Vasileios <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 
-:sparkles: Have you ever felt like finding magic in this world when playing a video game? I have, and my purpose is to help others find it too.
+:sparkles: Have you ever felt like finding magic in this world when playing a video game? I have, and my purpose is to help others find it too. :sparkles:
 
 <div align="left">
 <img width="700px" height = "500px" src="https://pbs.twimg.com/media/FJI52StXsAMrcZc?format=jpg&name=large" alt="cover" />
