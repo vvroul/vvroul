@@ -49,9 +49,6 @@ Screenshot from the current game I'm developing : Land of Crystals 💠
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@vvroul&compact=True"/>
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/f93a44b2-26c5-4066-92e5-de5250820f20.svg)](https://wakatime.com/@f93a44b2-26c5-4066-92e5-de5250820f20)
-
-
 <h2> Programming Jokes </h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
