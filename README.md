@@ -1,10 +1,9 @@
 <h1> Hello everyone, I'm Vrouliotis Vasileios <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<div> Checkout my webpage (currently under construction) : https://vvroul.github.io/webpage/ </div>
 <p align='center'> 
 
+:sparkles: <b> My purpose is to help others find magic in this world, while playing a video game. </b> :sparkles:
 
-
-:sparkles: My purpose is to help others find magic in this world, while playing a video game. :sparkles:
+🆕 Checkout my webpage (currently under construction) : https://vvroul.github.io/webpage/ 🆕
 
 <div align="left">
 <img width="700px" height = "500px" src="https://pbs.twimg.com/media/FJI52StXsAMrcZc?format=jpg&name=large" alt="cover" />
