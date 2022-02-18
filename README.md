@@ -38,23 +38,19 @@ Screenshot from the current game I'm developing : Land of Crystals 💠
 <h2> My GitHub Stats <img src='https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif' width='60px'> </h2>
 
 <div style="display: flex; flex-direction: row;">
- <img style="align:left" src="https://github-readme-stats.vercel.app/api?username=vvroul&show_icons=true&theme=gruvbox&count_private=true" />
- <img style="align:left" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=gruvbox" />
+ <img src="https://github-readme-stats.vercel.app/api?username=vvroul&show_icons=true&theme=gruvbox&count_private=true" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=gruvbox" />
 </div>
-
- <img style="align:left" src="https://metrics.lecoq.io/vvroul?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto" />
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@vvroul&compact=True"/>
 </a>
 
-<h2> Programming Jokes </h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
 <h2> Contributions Snake </h2>
 
 ![snake gif](https://raw.githubusercontent.com/vvroul/vvroul/output/github-contribution-grid-snake.gif)
+
+<hr />
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=vvroul)](https://github.com/gazf/github-readme-twitter)
