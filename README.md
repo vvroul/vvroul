@@ -3,7 +3,7 @@
 
 :sparkles: <b> My purpose is to help others find magic in this world, while playing a video game. </b> :sparkles:
 
-🆕 Checkout my webpage (currently under construction) : https://vvroul.github.io/webpage/ 🆕
+<!-- 🆕 Checkout my webpage (currently under construction) : https://vvroul.github.io/webpage/ 🆕 -->
 
 <div align="left">
 <img width="700px" height = "500px" src="https://pbs.twimg.com/media/FJI52StXsAMrcZc?format=jpg&name=large" alt="cover" />
