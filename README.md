@@ -1,7 +1,7 @@
 <h1> Hello everyone, I'm Vrouliotis Vasileios <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'> 
 
-:sparkles: <b> My purpose is to help others find magic in this world, while playing a video game. </b> :sparkles:
+:sparkles: <b> My purpose is to help others find the magic in this world, while playing a video game. </b> :sparkles:
 
 <!-- 🆕 Checkout my webpage (currently under construction) : https://vvroul.github.io/webpage/ 🆕 -->
 
