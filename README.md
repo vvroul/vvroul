@@ -5,11 +5,11 @@
 
 <!-- 🆕 Checkout my webpage (currently under construction) : https://vvroul.github.io/webpage/ 🆕 -->
 
-<div align="left">
+<!-- <div align="left">
 <img width="700px" height = "500px" src="https://pbs.twimg.com/media/FJI52StXsAMrcZc?format=jpg&name=large" alt="cover" />
 </div>
 
-Screenshot from the current game I'm developing : Land of Crystals 💠
+Screenshot from the current game I'm developing : Land of Crystals 💠 -->
 
 <h2> About Me <img src = "https://steptech.com.au/wp-content/uploads/2021/07/Game-development.gif" width = 40px> </h2>
 
