@@ -5,12 +5,6 @@
 
 <!-- 🆕 Checkout my webpage (currently under construction) : https://vvroul.github.io/webpage/ 🆕 -->
 
-<!-- <div align="left">
-<img width="700px" height = "500px" src="https://pbs.twimg.com/media/FJI52StXsAMrcZc?format=jpg&name=large" alt="cover" />
-</div>
-
-Screenshot from the current game I'm developing : Land of Crystals 💠 -->
-
 <h2> About Me <img src = "https://steptech.com.au/wp-content/uploads/2021/07/Game-development.gif" width = 40px> </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -43,11 +37,6 @@ Screenshot from the current game I'm developing : Land of Crystals 💠 -->
  <img src="https://github-readme-stats.vercel.app/api?username=vvroul&show_icons=true&theme=gruvbox&count_private=true" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=gruvbox" />
 </div>
-
-<!-- <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@vvroul&compact=True"/>
-</a> -->
 
 <h2> Contributions Snake <img src='https://art.pixilart.com/76cecf6b86ae119.gif' width='30px'> </h2>
 
