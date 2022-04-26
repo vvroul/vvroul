@@ -52,7 +52,3 @@ Screenshot from the current game I'm developing : Land of Crystals 💠 -->
 <h2> Contributions Snake <img src='https://art.pixilart.com/76cecf6b86ae119.gif' width='30px'> </h2>
 
 ![snake gif](https://raw.githubusercontent.com/vvroul/vvroul/output/github-contribution-grid-snake.gif)
-
-<h2> Latest Tweets <img src='https://techcrunch.com/wp-content/uploads/2014/06/twitter-rise.gif?w=730&crop=1' width='30px'> </h2>
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=vvroul)](https://github.com/gazf/github-readme-twitter)
