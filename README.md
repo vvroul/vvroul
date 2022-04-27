@@ -37,7 +37,3 @@
  <img src="https://github-readme-stats.vercel.app/api?username=vvroul&show_icons=true&theme=gruvbox&count_private=true" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=gruvbox" />
 </div>
-
-<h2> Contributions Snake <img src='https://art.pixilart.com/76cecf6b86ae119.gif' width='30px'> </h2>
-
-![snake gif](https://raw.githubusercontent.com/vvroul/vvroul/output/github-contribution-grid-snake.gif)
