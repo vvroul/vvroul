@@ -31,9 +31,9 @@
 
 <br />
 
-<h2> My GitHub Stats <img src='https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif' width='60px'> </h2>
+<!-- <h2> My GitHub Stats <img src='https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif' width='60px'> </h2>
 
 <div style="display: flex; flex-direction: row;">
  <img src="https://github-readme-stats.vercel.app/api?username=vvroul&show_icons=true&theme=gruvbox&count_private=true" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=gruvbox" />
-</div>
+</div> -->
