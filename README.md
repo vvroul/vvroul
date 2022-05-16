@@ -1,13 +1,13 @@
 <h1> Hello everyone, I'm Vrouliotis Vasileios <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'> 
 
-:sparkles: <b> Helping others find magic in this world through video games. </b> :sparkles:
-
 <!-- 🆕 Checkout my webpage (currently under construction) : https://vvroul.github.io/webpage/ 🆕 -->
 
 <h2> About Me <img src = "https://steptech.com.au/wp-content/uploads/2021/07/Game-development.gif" width = 40px> </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+:sparkles: <b> Helping others find magic in this world through video games. </b> :sparkles:
 
 :gem: I’m currently working on an exploration game about collecting and cleansing healing crystals called "Land of Crystals"
 
