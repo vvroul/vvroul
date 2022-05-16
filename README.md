@@ -9,13 +9,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-🔭 I’m currently working on : 
-
-- :gem: an exploration game about collecting and cleansing crystals called "Land of Crystals"
-
-- :video_game: a story driven creature collector game called "For Her" 
-
-- :flower_playing_cards: a trading card game called "Stralings"
+:gem: I’m currently working on an exploration game about collecting and cleansing healing crystals called "Land of Crystals"
 
 <br />
 
