@@ -8,7 +8,7 @@
 
 :sparkles: <b> Helping others find magic in this world through video games. </b> :sparkles:
 
-You can find my games here: https://vvrouliotis.itch.io/
+You can find my games here: https://vvrouliotis.blogspot.com/
 
 :gem: I’m currently working on an exploration game about collecting and cleansing healing crystals called "Land of Crystals"
 
