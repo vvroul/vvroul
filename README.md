@@ -10,7 +10,7 @@
 
 You can find my games here: https://vvrouliotis.blogspot.com/
 
-:gem: I’m currently working on an exploration game about collecting and cleansing healing crystals called "Land of Crystals"
+:gem: I’m currently working on a collectathon RPG game about collecting and cleansing healing crystals called "Land of Crystals"
 
 <br /> <br /> <br />
 
