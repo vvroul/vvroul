@@ -8,9 +8,11 @@
 
 :sparkles: <b> Helping others find magic in this world through video games. </b> :sparkles:
 
-You can find my games here: https://vvrouliotis.itch.io/
+:gem: Find Land of Crystals now on Steam: https://store.steampowered.com/app/2415130/Land_of_Crystals/ :gem:
 
-:gem: Find Land of Crystals now on Steam: https://store.steampowered.com/app/2415130/Land_of_Crystals/
+<br />
+
+You can find my games here: https://vvrouliotis.itch.io/
 
 <br /> <br /> <br />
 
