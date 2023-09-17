@@ -8,11 +8,9 @@
 
 :sparkles: <b> Helping others find magic in this world through video games. </b> :sparkles:
 
-:gem: Find Land of Crystals now on Steam: https://store.steampowered.com/app/2415130/Land_of_Crystals/ :gem:
+:gem: Wishlist Land of Crystals now on Steam: https://store.steampowered.com/app/2415130/Land_of_Crystals/ :gem:
 
-<br />
-
-You can find my games here: https://vvrouliotis.itch.io/
+You can find my other games here: https://vvrouliotis.itch.io/
 
 <br /> <br /> <br />
 
