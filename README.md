@@ -18,8 +18,10 @@
 📐 Rapid prototyping & product iteration
 
 📊 GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vvroul&show_icons=true&theme=default&hide_border=false" height="170" /> </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vvroul&show_icons=true&theme=radical&hide_border=false)
+
 🔥 GitHub Streak
-<p align="left"> <img src="https://streak-stats.demolab.com?user=vvroul&theme=default&hide_border=false" height="170" /> </p>
+![Streak](https://streak-stats.demolab.com?user=vvroul&theme=radical&hide_border=false)
+
 🧩 Top Languages
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=false" height="170" /> </p>
