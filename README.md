@@ -1,17 +1,23 @@
-<h1> Hi there — I'm Vrouliotis Vasileios 👋</h1> <h2> About Me </h2> <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<h1> Hi there — I'm Vrouliotis Vasileios 👋</h1> <h2> About Me </h2>
 
-💡 <b>I build modern web apps that balance clean engineering with thoughtful product design.</b>
+💡 <b>Building modern web apps that blend clean engineering with thoughtful product design.</b>
 
-🚀 I work with React, Next.js, and TypeScript, combining them with AI-powered workflows to prototype, iterate, and ship faster — without sacrificing quality or UX.
+🧭 7+ years in front-end development delivering scalable, intuitive, and polished interfaces.
 
-🧠 Comfortable collaborating with tools like Cursor, Claude, Lovable, and others to extend creativity and development speed.
+🚀 Expert in React, Next.js, TypeScript, and AI-assisted workflows to prototype, iterate, and ship efficiently.
 
-🌱 Currently exploring:
-• AI-driven developer tooling
-• Scalable front-end architecture
-• Components & design systems for complex products
+🧠 Skilled at leveraging tools like Cursor, Claude, Lovable, ChatGPT to boost productivity and creativity.
 
-<br /> <h2> Skills & Tools </h2> <p align="left"> <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a> <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" width="40"/></a> <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a> <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a> <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a> </p> <h3> AI & Productivity </h3>
+<h2> Highlights </h2>
+
+• Designed and shipped complex, user-centric web interfaces
+• Ensured full accessibility compliance with latest European standards
+• Replatformed products from scratch for scalability and maintainability
+• Integrated AI tools to accelerate development and decision-making
+• Built scalable component systems for multi-product front-ends
+• Bridged product vision and technical execution
+
+<h2> Skills & Tools </h2> <p align="left"> <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a> <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" width="40"/></a> <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a> <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a> <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a> </p> <h3> AI & Productivity </h3>
 
 ⚙️ Cursor • Claude • Lovable • ChatGPT
 📐 Rapid prototyping & product iteration
